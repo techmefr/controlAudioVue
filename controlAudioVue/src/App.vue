@@ -9,5 +9,5 @@
 </template>
 
 <script setup>
-  //
+  import controlAudio from "../components/controlAudio.vue"
 </script>
